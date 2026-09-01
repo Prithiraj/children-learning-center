@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff8ea"/>
+  <circle cx="1070" cy="40" r="220" fill="#f4c85a" opacity=".7"/>
+  <circle cx="35" cy="640" r="210" fill="#718760" opacity=".65"/>
+  <rect x="760" y="120" width="330" height="390" rx="58" fill="#245443"/>
+  <circle cx="850" cy="235" r="62" fill="#d8795d"/>
+  <circle cx="990" cy="360" r="46" fill="#f4c85a"/>
+  <path d="M812 430c70-118 163-165 252-139" fill="none" stroke="#fff8ea" stroke-width="14" stroke-linecap="round"/>
+  <text x="86" y="115" fill="#245443" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="5">I LOVE CHILDREN</text>
+  <text x="86" y="155" fill="#667069" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">LEARNING CENTER · MONTCLAIR, NJ</text>
+  <text x="86" y="280" fill="#202925" font-family="Georgia, serif" font-size="74" font-weight="700">A small learning center</text>
+  <text x="86" y="370" fill="#d8795d" font-family="Georgia, serif" font-size="74" font-style="italic">for big early discoveries.</text>
+  <text x="88" y="485" fill="#245443" font-family="Arial, sans-serif" font-size="28" font-weight="700">Nature-based · Hands-on · Ages 2½–6</text>
+  <text x="88" y="535" fill="#667069" font-family="Arial, sans-serif" font-size="24">NJ License CCC127523</text>
+</svg>

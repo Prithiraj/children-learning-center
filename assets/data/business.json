@@ -1,0 +1,65 @@
+{
+  "name": "I Love Children Learning Center",
+  "legalType": "Child Care Center",
+  "license": {
+    "number": "CCC127523",
+    "authority": "New Jersey Department of Children and Families"
+  },
+  "address": {
+    "street": "316 Claremont Avenue",
+    "city": "Montclair",
+    "state": "NJ",
+    "postalCode": "07042",
+    "country": "US",
+    "latitude": 40.8202302,
+    "longitude": -74.2216123
+  },
+  "phone": "+1-973-462-9118",
+  "phoneDisplay": "973-462-9118",
+  "email": "dunlapbiah9@gmail.com",
+  "licensedAges": "2½–6 years",
+  "licensedCapacity": 19,
+  "hours": {
+    "timeZone": "America/New_York",
+    "monday": ["06:30", "18:30"],
+    "tuesday": ["06:30", "18:30"],
+    "wednesday": ["06:30", "18:30"],
+    "thursday": ["06:30", "18:30"],
+    "friday": ["06:30", "18:30"],
+    "saturday": null,
+    "sunday": null
+  },
+  "evidenceBackedPositioning": [
+    "Nature-based early learning",
+    "Hands-on experiences",
+    "Exploration and creativity",
+    "Outdoor discovery",
+    "Social, emotional and academic development"
+  ],
+  "sources": [
+    {
+      "label": "NJ DCF licensed child care centers register, August 2026",
+      "url": "https://www.nj.gov/dcf/documents/about/divisions/ol/NJDCF-Licensed-Child-Care-Centers.pdf",
+      "supports": ["name", "provider type", "license", "address", "phone", "email", "licensed ages", "capacity"]
+    },
+    {
+      "label": "Business-provided Winnie profile",
+      "url": "https://winnie.com/place/i-love-children-learning-center-montclair",
+      "supports": ["weekday hours", "nature-based and hands-on positioning"]
+    }
+  ],
+  "notForPublicationWithoutOwnerConfirmation": [
+    "Toddler care starting at 18 months",
+    "School-age care extending to age 12",
+    "Before/after care",
+    "Drop-in care",
+    "Summer camp age range or tuition",
+    "Transportation",
+    "Meals",
+    "Subsidies or vouchers",
+    "Head Start participation",
+    "Special-needs service scope",
+    "Current enrollment availability",
+    "Official social media URLs"
+  ]
+}
